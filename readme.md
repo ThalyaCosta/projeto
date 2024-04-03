@@ -1,14 +1,14 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Exclusive and free program, promoted by Rocketseat for teaching WEB technologies.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -21,26 +21,26 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="calendario da copa" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O DevLinks e uma agregador de links para usar como um cartao de visitas online.
+DevLinks is a link aggregator to use as an online business card.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). It is necessary to have an account [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License.
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT License.
 
 ---
 
